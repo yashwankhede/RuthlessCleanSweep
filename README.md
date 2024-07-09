@@ -14,9 +14,10 @@ RuthlessCleanSweep is a powerful utility that recursively deletes empty folders 
 
 ```bash
 ./ruthless_clean_sweep.sh
+```
 
 ### CMD
 
 ```bash
 ruthless_clean_sweep.cmd
-
+```
