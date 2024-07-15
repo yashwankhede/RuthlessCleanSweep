@@ -4,9 +4,9 @@ RuthlessCleanSweep is a powerful utility that recursively deletes empty folders 
 
 ## Features
 
-- Recursively delete empty folders
-- Recursively delete empty files
-- Cross-platform support (Bash and CMD)
+- Recursively delete empty folders.
+- Recursively delete empty files.
+- Cross-platform support (Bash and CMD).
 
 ## Usage
 
